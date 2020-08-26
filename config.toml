@@ -1,0 +1,9 @@
+baseURL = "http://www.hinter-dem-mond.de/"
+languageCode = "de-de"
+title = "Hinter dem Mond"
+theme = "dream"
+defaultContentLanguage = "de"
+
+[params]
+    showSummaryCoverInPost = true
+
