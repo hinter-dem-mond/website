@@ -1,5 +1,5 @@
 ---
-title: Mermaid
+title: Meerjungfrau mit Fischen
 date: 2020-08-26T07:07:15+02:00
 lastmod: 2020-08-26T07:07:15+02:00
 author: Hinter dem Mond
@@ -9,14 +9,11 @@ categories:
   - Meer
 tags:
   - Meer
-  - Wetter
-  - Tank Top
+  - Meerjungfrau
+  - Illustration
+  - Fische
 # showcase: true
 draft: false
 ---
 
-Cut out summary from your post content here.
-
-<!--more-->
-
-The remaining content of your post.
+Elegante Meerjungfrau mit Fischen und Ranken

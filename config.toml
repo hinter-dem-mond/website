@@ -6,4 +6,7 @@ defaultContentLanguage = "de"
 
 [params]
     showSummaryCoverInPost = true
-
+    rss = true
+    email = "social@hinter-dem-mond.de"
+    facebook = "hinterdemmond"
+    instagram = "hinter_dem_mond_shop"
